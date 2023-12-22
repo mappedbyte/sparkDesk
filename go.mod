@@ -1,4 +1,4 @@
-module sparkdesk
+module github.com/oneAsiaPeople/sparkDesk
 
 go 1.20
 
